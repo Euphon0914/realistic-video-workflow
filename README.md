@@ -37,14 +37,14 @@
 
 ```text
 Install the skill from:
-https://github.com/<owner>/realistic-video-workflow/tree/main/skills/run-realistic-video-workflow
+https://github.com/Euphon0914/realistic-video-workflow/tree/main/skills/run-realistic-video-workflow
 ```
 
 也可以使用安装脚本：
 
 ```bash
 python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo <owner>/realistic-video-workflow \
+  --repo Euphon0914/realistic-video-workflow \
   --path skills/run-realistic-video-workflow
 ```
 
@@ -87,7 +87,7 @@ The core workflow uses Python 3.10+ and the standard library only. Image generat
 Install with `$skill-installer` from:
 
 ```text
-https://github.com/<owner>/realistic-video-workflow/tree/main/skills/run-realistic-video-workflow
+https://github.com/Euphon0914/realistic-video-workflow/tree/main/skills/run-realistic-video-workflow
 ```
 
 Then invoke it on the next turn:
