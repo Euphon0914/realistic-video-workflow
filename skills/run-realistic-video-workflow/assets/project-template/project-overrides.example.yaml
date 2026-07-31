@@ -1,0 +1,14 @@
+# 可选。没有此文件时，系统从上传资料推导并在Gate 1一次性确认。
+project_name: ""
+target_audience: ""
+distribution_channels: []
+target_runtime_seconds: null
+aspect_ratio: ""
+resolution: ""
+frame_rate: null
+languages: []
+subtitle_languages: []
+sound_policy: ""
+mandatory_messages: []
+forbidden_messages: []
+budget_or_quota_limit: null

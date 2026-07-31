@@ -1,0 +1,4 @@
+interface:
+  display_name: "写实人物视频工作流"
+  short_description: "资料驱动、分阶段审核、可恢复的写实人物视频制作工作流"
+  default_prompt: "Use $run-realistic-video-workflow to inspect the uploaded materials and start or resume a realistic live-action video project."

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Generated workflow projects
+.workflow/
+00_intake/uploads/
+07_generated-video/
+08_postproduction/
+09_delivery/
+
+# Generated media and archives
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.zip
+*.tar
+*.tar.gz
+
+# Build and temporary output
+build/
+dist/
+tmp/
+temp/
+*.tmp
